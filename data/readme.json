@@ -2,20 +2,17 @@
   "id": 38,
   "created_at": "2025-01-23T00:00:00Z",
   "seo_title": "Linkedin Learning Downloader - Free Content Download Tool",
-  "seo_description": "https://serp.ly/linkedin-learning-downloader",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/linkedin-learning-downloader",
   "purchase_url": "https://serp.ly/linkedin-learning-downloader",
   "store_product_id": null,
   "name": "Linkedin Learning Downloader",
-  "tagline": "https://serp.ly/linkedin-learning-downloader",
-  "featured_image": "images/linkedin-learning-downloader.jpg",
-  "featured_image_gif": "images/linkedin-learning-downloader.gif",
+  "tagline": "Save LinkedIn Learning courses with exercise files and certificates",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/linkedin-learning-downloader/assets/images/linkedin-learning-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/linkedin-learning-downloader/assets/images/linkedin-learning-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/linkedin-learning-downloader",
   "github_repo_tags": [
-    "linkedin-learning-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "linkedin-learning-downloader"
   ],
   "github_gist_url": null,
   "features": [
@@ -55,13 +52,11 @@
     "Node.js",
     "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/linkedin-learning-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/linkedin-learning-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/linkedin-learning-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Video Downloaders",
-    "Content Tools",
-    "Automation"
+    "course marketplace"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -72,21 +67,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/linkedin-learning-downloader",
     "https://devinschumacher.com/linkedin-learning-downloader",
-    "https://serp.co/products/linkedin-learning-downloader/reviews/"
+    "https://serp.co/products/linkedin-learning-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "linkedin-learning",
-    "downloader",
-    "automation",
-    "tool",
-    "free"
+    "linkedin learning downloader"
   ]
 }
